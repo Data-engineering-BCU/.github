@@ -5,7 +5,7 @@
 </h3> 
 
 <h2 align="left">HOW TO JOIN 📔</h2>
-<h3 align="left"> We are excited to have you. Kindly use the registration link data_engineering_community 💻, or send a mail 📪 to [Nelson](nelson.ogbeide@mail.bcu.ac.uk) or [Zan](zan.zver@mail.bcu.ac.uk) <h3>
+<h3 align="left"> We are excited to have you. Kindly use the registration link data_engineering_community 💻, or send a mail 📪 to nelson.ogbeide@mail.bcu.ac.uk or zan.zver@mail.bcu.ac.uk<h3>
 
 <h2 align="left">NAVIGATE REPO</h2>
 <h3 align="left"> The Data engineering repo contains materials for learning. The repo is arranged in form of a road map 🗺️. Each folder 📂 contains well curated video/course links, detailed notebooks, and exciting projects as guides. It is advisable for members to not only work on the projects provided in each folder for each learning topic, but also to build personal projects for each topic to further reinforce their understanding.</h3>
